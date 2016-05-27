@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - BookShelf@127.0.0.1" uuid="79550ff7-4a0c-4c34-b132-7518fa43ebe0">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source name="MySQL - BookShelf@127.0.0.1 [2]" uuid="c9b98f9c-9c75-4a36-8dc0-91625cbac27b">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
